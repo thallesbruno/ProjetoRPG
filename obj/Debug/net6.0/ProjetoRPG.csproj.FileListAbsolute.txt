@@ -1,0 +1,15 @@
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.exe
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.deps.json
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.runtimeconfig.json
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.dll
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ref\ProjetoRPG.dll
+D:\Dev\workspace\curso_dio\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.pdb
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.AssemblyReference.cache
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfoInputs.cache
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfo.cs
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.dll
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ref\ProjetoRPG.dll
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.pdb
+D:\Dev\workspace\curso_dio\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.genruntimeconfig.cache
